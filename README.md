@@ -1,6 +1,4 @@
 # Ecommerce Sales Data Analysis
----
-![Main Image](https://github.com/user-attachments/assets/1ee290f5-3624-489e-903d-d6437bf6a346)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -88,8 +86,7 @@ Dataset of Orders csv file:
 
 ---
 ### Tools and Technologies Used
-- <img src="https://github.com/mdshajie720/Ecommerce_Sales_Data_Analysis-SQL-Power-BI/blob/main/Report%20Images/SSMS.png" alt="SSMS Icon" width="30" height="30"> SQL Server Management Sudio: Utilized for managing databases, executing queries, and performing data analysis. SQL queries played a vital role in extracting key metrics and insights from the online sales dataset, enabling effective data-driven analysis.
-- <img src="https://github.com/mdshajie720/Ecommerce_Sales_Data_Analysis-SQL-Power-BI/blob/main/Report%20Images/Power%20BI.png" alt="SSMS Icon" width="30" height="30"> Power BI: A powerful data visualization and business intelligence tool used for creating interactive dashboards and reports. Power BI was utilized to transform the extracted data into visual insights, allowing for clear representation and analysis of key metrics. This enabled stakeholders to quickly interpret online sales trends, patterns, and performance indicators, facilitating informed decision-making.
+-Power BI: A powerful data visualization and business intelligence tool used for creating interactive dashboards and reports. Power BI was utilized to transform the extracted data into visual insights, allowing for clear representation and analysis of key metrics. This enabled stakeholders to quickly interpret online sales trends, patterns, and performance indicators, facilitating informed decision-making.
 
 ---
 
@@ -151,17 +148,6 @@ Explore our online sales analysis project in-depth with our interactive data vis
   </tr>
 </table>
 
-[Power BI Dashboard](https://app.powerbi.com/groups/me/reports/fd94e7b9-a3b9-4fed-99e1-c1b2d9f37589/179358e6548615d00c41?experience=power-bi)
-### Home page
-![Dashboard_Home](https://github.com/user-attachments/assets/9a1bfa19-aa29-47ba-885d-348db92187b0)
-
-### Customer Behavior page
-![Dashboard_Customer Behavior](https://github.com/user-attachments/assets/fb166c2d-dcba-4ddb-af7d-685e71aa4c61)
-
-### Payment Preference page
-![Dashboard_Payment Preference](https://github.com/user-attachments/assets/95199d6f-0a68-4ee9-9cbd-dcf78eb8ba0d)
-
----
 
 ### Key Insights and Findings
 **Sales Performance:**
